@@ -1,10 +1,10 @@
 # HODL IPTV M3U Link Checker
 
-![HODL IPTV M3U Link Checker](https://m3uchecker.netlify.app/img/logo.png)
+![HODL IPTV M3U Link Checker](https://m3ulinkchecker.vercel.app/img/logo.png)
 
 A lightweight, responsive web application to check the availability of IPTV links from M3U playlists or URLs. Built with HTML, CSS, and JavaScript, this tool allows users to upload M3U files or input URLs, verify link status, play streams, export results, and manage local history.
 
-Hosted live at: [https://m3uchecker.netlify.app/](https://m3uchecker.netlify.app/)
+Hosted live at: [https://m3ulinkchecker.vercel.app/](https://m3ulinkchecker.vercel.app/)
 
 ## Features
 
